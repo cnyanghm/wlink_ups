@@ -19,6 +19,12 @@ wlink 物联网协议
 	wlink_tcp  示范了如何查询设备数据和向设备发送命令.
 
 	示范代码可以在 linux & windows 下编译运行。
+	
+http post 方式
+
+	ayi9 的物联网卡还支持 http post 方式。
+	你可以把类似 wlink 的请求直接 POST 给板上 web server。 详细见文件 http_post.pdf
+	
 
 	
 	
