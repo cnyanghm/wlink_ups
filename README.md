@@ -1,5 +1,4 @@
-# wlink_ups
-# wlink in ayi9 IoT card
+# wlink in ayi9 UPS card
 
 作者 wechat 13902904910
 
