@@ -22,7 +22,7 @@ wlink 物联网协议
 	
 http post 方式
 
-	ayi9 的物联网卡还支持 http post 方式。
+	ayi9 的物联网卡还支持 http post 方式。这是更加容易上手的方式。
 	你可以把类似 wlink 的请求直接 POST 给板上 web server。 详细见文件 http_post.pdf
 	
 
