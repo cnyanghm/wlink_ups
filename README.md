@@ -18,7 +18,7 @@
 
 	wlink TCP 协议见 wlink_TCP_UPS.pdf 文件 
 
-	代码
+	示范代码
 
 	wlink_scan 示范了如何查询局域网内的设备.
 
